@@ -11,6 +11,9 @@ Hello! I'm a programer looking to revolutionize open-source by helping with bloc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awholegnuworld&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awholegnuworld&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+Contributions over the last 30 days:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=awholegnuworld&bg_color=4f4f4f&color=00ff2a&line=73f440&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awholegnuworld&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
