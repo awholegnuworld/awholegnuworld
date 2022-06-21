@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello! I'm a programer looking to revolutionize open-source by helping with blockchain technologies! I love DeFi and Crypto, and I hope to be able to collaborate on those projects. I'm a big fan of web3 and the privacy it provides, and I love the idea of truly owning your own website. 
+Hello! I'm a programer looking to revolutionize open-source by helping with blockchain technologies! I love DeFi and Crypto, and I hope to be able to collaborate on those projects. I'm a big fan of ~~web3~~**web5** and the privacy it provides, and I love the idea of truly owning your own website. 
 
 ## 🌐Socials
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/15586517) 
