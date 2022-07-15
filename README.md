@@ -1,5 +1,5 @@
 
-# Hi, I'm awholegnuworld!
+# Hi, I'm awholegnuworld! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px"/>
 ## 🚀 About Me
 I'm a freshman in high school who has been programing since I was 7. I started with Javascript and continued from there. I like to work on blockchain projects and anything decentralized or peer to peer. I enjoy learning about cryptocurrency, mainly Bitcoin, and I stack Sats in my free time. When I'm not programming, I'm reading or playing trumpet in band. 
 
